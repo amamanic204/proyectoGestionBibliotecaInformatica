@@ -1,13 +1,16 @@
+*{
+	font-family: cursive;
+}
 body {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	background-color: seagreen;
+	background-color: #025384;
 }
 
 .cuerpo {
 	height: 85vh;
-	background-color: white;
+	background-color: #ffffff;
 	padding: 20px;
 	display: flex;
 	align-items: center;
@@ -43,5 +46,10 @@ footer {
 	justify-content: center;
 	flex-wrap: wrap;
 	color: white;
-	background-color: black;
+	background-color: #4da2da;
+	margin-top: 1%;
+}
+header .navbar .container-fluid{
+	background-color: #4da2da;
+	padding-bottom: 1%;
 }
