@@ -34,15 +34,14 @@ body {
 }
 .nombreMarca {
 	text-align: center;
-	/*font-size: 12vh;*/
 	font-size: 300%;
 }
 
 footer {
 	padding: 20px;
-	height: 100px;
 	display: flex;
 	justify-content: center;
+	flex-wrap: wrap;
 	color: white;
 	background-color: black;
 }
